@@ -1,0 +1,4 @@
+1. Add A Theme Color Changer
+2. Save Theme and Settings
+3. Optimized App to run much better
+4. Add New File Type
