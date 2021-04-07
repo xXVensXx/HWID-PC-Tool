@@ -1,2 +1,3 @@
 # HWID-PC-Tool
 This is a easy to use PC Tool that at the moment allows you to get/copy/log your PC [H-W-I-D]. Big Changes coming soon...
+4.0
